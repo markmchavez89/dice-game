@@ -1,0 +1,34 @@
+body {
+  background-color: #fbe6c2;
+  margin: 0;
+  text-align: center;
+}
+.refresh-me {
+  color: #f48b29;
+  font-family: "Lobster", cursive;
+  font-size: 9rem;
+  margin-top: 25px;
+  padding-bottom: 75px;
+  position: relative;
+  text-align: center;
+}
+.player1 {
+  color: #f48b29;
+  display: inline-block;
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem;
+  padding: 0 115px;
+}
+.player2 {
+  color: #f48b29;
+  display: inline-block;
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem;
+  padding: 0 115px;
+}
+.die1 {
+  padding: 0 35px;
+}
+.die2 {
+  padding: 0 35px;
+}
